@@ -34,4 +34,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhu786&theme=tokyonight)
 
-[![Leetcode Stats](https://leetcode.card.workers.dev/?username=Bhu786?cache=0)](https://leetcode.com/bhupendrakumarssm926/)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
