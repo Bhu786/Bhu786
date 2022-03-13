@@ -30,7 +30,7 @@
 
 
 
-[![Bhupendra's github stats](https://github-readme-stats.vercel.app/api?username=Bhu786theme=tokyonight)](https://github.com/Bhu786/github-readme-stats)
+[![Bhupendra's github stats](https://github-readme-stats.vercel.app/api?username=Bhu786&theme=tokyonight)](https://github.com/Bhu786/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhu786&theme=tokyonight)
 
