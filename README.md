@@ -6,13 +6,13 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **web developmnet and devops tools**
+- 🔭 I’m currently working on **MERN and Java developer and devops tools**
  
-- 🌱 I’m currently learning **full stack in mern**
+- 🌱 I’m currently learning **full stack in mern and java**
 
 - 🤝 I’m looking for help with **devops**
 
-- 💬 Ask me about **React js,js,c++,data structure,sql,css**
+- 💬 Ask me about **Html,React.js,Js,C++,data structure,Sql,Css**
 
 - 📫 How to reach me **bhupendra060102@gmail.com**
 
