@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Mathieu 👋 I'm a 🚀 Software developer 🚀 I ❤️ CODING ❤️">
+</p>
+
+
 ![FULL STACK DEVELOPER](https://cdn.pixabay.com/photo/2016/11/30/20/58/programming-1873854_1280.png)
 
 
