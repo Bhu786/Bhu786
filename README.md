@@ -1,4 +1,4 @@
-## नमस्ते (Namaste), I am [BHUPENDRA_KUMAR]([https://maddhruv.dev/](https://www.linkedin.com/in/bhukalki/)
+## नमस्ते (Namaste), I am [BHUPENDRA_KUMAR](https://www.linkedin.com/in/bhukalki/)
 
 
 
