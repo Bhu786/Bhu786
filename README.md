@@ -5,7 +5,7 @@
 
  <!-- ![FULL STACK DEVELOPER](https://cdn.pixabay.com/photo/2016/11/30/20/58/programming-1873854_1280.png) -->
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="1100">
 <br><br>
 
 <br><br> 
