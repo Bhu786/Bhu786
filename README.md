@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+
+
+
 ## नमस्ते (Namaste), I am [BHUPENDRA_KUMAR](https://www.linkedin.com/in/bhukalki/)
 
 <!--  ==>
@@ -68,31 +72,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhu786&theme=tokyonight)
 
-<div align="">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
-</div>
+
 <br><br>
 
 <div align="center">
@@ -101,5 +81,19 @@
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
 </div>
 <br>
+
+
+
+
+## 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Maintaining the Wim Hof Method: Discipline and Escalation](https://kevinfeng-cs88.medium.com/maintaining-the-wim-hof-method-discipline-and-escalation-a33adc507c4e?source=rss-952aa1b4a284------2)
+- [Pseudocode: Breaking Free of Tutorial Sites](https://kevinfeng-cs88.medium.com/pseudocode-breaking-free-of-tutorial-sites-329ecd22efc4?source=rss-952aa1b4a284------2)
+- [We Will Always Be Apes: Return to Monke](https://kevinfeng-cs88.medium.com/we-will-always-be-apes-return-to-monke-38f4848961f3?source=rss-952aa1b4a284------2)
+- [Wim Hof: The Real Life Demon Slayer](https://kevinfeng-cs88.medium.com/wim-hof-the-real-life-demon-slayer-cacecd9f769?source=rss-952aa1b4a284------2)
+- [My First Week with Apollo](https://kevinfeng-cs88.medium.com/my-first-week-with-apollo-658ad5824134?source=rss-952aa1b4a284------2)
+<!-- BLOG-POST-LIST:END -->
+
+
 
 <!-- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats) -->
