@@ -87,10 +87,10 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Maintaining the Wim Hof Method: Discipline and Escalation](https://kevinfeng-cs88.medium.com/maintaining-the-wim-hof-method-discipline-and-escalation-a33adc507c4e?source=rss-952aa1b4a284------2)
-- [Pseudocode: Breaking Free of Tutorial Sites](https://kevinfeng-cs88.medium.com/pseudocode-breaking-free-of-tutorial-sites-329ecd22efc4?source=rss-952aa1b4a284------2)
-- [We Will Always Be Apes: Return to Monke](https://kevinfeng-cs88.medium.com/we-will-always-be-apes-return-to-monke-38f4848961f3?source=rss-952aa1b4a284------2)
-- [Wim Hof: The Real Life Demon Slayer](https://kevinfeng-cs88.medium.com/wim-hof-the-real-life-demon-slayer-cacecd9f769?source=rss-952aa1b4a284------2)
+- [Dev_post](https://dev.to/bhu_101/html-mind-map-5d1i)
+- [X_post](https://x.com/bhu_101/status/1819788849804955782)
+- [Medium_post](https://kevinfeng-cs88.medium.com/pseudocode-breaking-free-of-tutorial-sites-329ecd22efc4?source=rss-952aa1b4a284------2)
+- [Wim Hof: The Real Life Demon Slayer]()
 - [My First Week with Apollo](https://kevinfeng-cs88.medium.com/my-first-week-with-apollo-658ad5824134?source=rss-952aa1b4a284------2)
 <!-- BLOG-POST-LIST:END -->
 
