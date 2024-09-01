@@ -84,6 +84,11 @@
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/Bhu786/github-readme-stats)
+
+
+
+
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
