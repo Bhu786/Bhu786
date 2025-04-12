@@ -94,6 +94,24 @@
 </p>
 
 
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhu786&show_icons=true&theme=react&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhu786&layout=compact&theme=react&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bhu786&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+</p>
+
+<!-- Snake animation -->
+<p align="center">
+  <img src="https://github.com/Bhu786/Bhu786/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+
+
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Dev_post](https://dev.to/bhu_101/html-mind-map-5d1i)
@@ -102,6 +120,10 @@
 - [Wim Hof: The Real Life Demon Slayer]()
 - [My First Week with Apollo](https://kevinfeng-cs88.medium.com/my-first-week-with-apollo-658ad5824134?source=rss-952aa1b4a284------2)
 <!-- BLOG-POST-LIST:END -->
+
+
+
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
