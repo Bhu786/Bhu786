@@ -79,6 +79,18 @@
 
 
 
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhu786&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhu786&layout=compact&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bhu786&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
 
 
 ## 📕 Latest Blog Posts
